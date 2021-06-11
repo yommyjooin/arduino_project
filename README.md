@@ -17,3 +17,6 @@
 → 음성 신호 출력 + Bluetooth Terminal에 메세지 전송
 
 → BTserial(Bluetooth Terminal)에서 b를 입력하여 도난 방지 시스템 종료
+
+*헤더파일*
+libraries 폴더에 talkie 

@@ -10,7 +10,6 @@
 
 ## 개발 목표
 
-똥그라미 엉케하냐<br>
 - 소프트웨어와 하드웨어의 연동<br>
 - 블루투스르 이용하여 원격지에서도 조작 및 상황 인지 
 
@@ -25,7 +24,7 @@
 → 음성 신호 출력 + Bluetooth Terminal에 메세지 전송<br>
 → BTserial(Bluetooth Terminal)에서 b를 입력하여 도난 방지 시스템 종료<br>
 
-### 헤더파일
+## 헤더파일
 
 arduino libraries폴더에 talkie 압축 풀기
 

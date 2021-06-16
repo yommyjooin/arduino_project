@@ -4,8 +4,6 @@
 https://user-images.githubusercontent.com/62279741/122161494-c9c8aa00-ceac-11eb-8dc7-8043ab3cda39.mp4
 
 
-
-
 ## 구현 배경
 
 카페 등의 공공 장소에서 잠시 자리를 비울 때, <br>

@@ -19,8 +19,7 @@ https://user-images.githubusercontent.com/62279741/122161494-c9c8aa00-ceac-11eb-
 - 블루투스르 이용하여 원격지에서도 조작 및 상황 인지 
 
 ## 회로도
-![회로도](https://user-images.githubusercontent.com/62279741/122437402-a39e2980-cfd4-11eb-8103-9be080fe98cf.PNG)
-
+<img src="https://user-images.githubusercontent.com/62279741/122437402-a39e2980-cfd4-11eb-8103-9be080fe98cf.PNG" width="60%">
 
 ## 알고리즘
 
@@ -40,6 +39,7 @@ arduino libraries폴더에 talkie 압축 풀기
 
 ## 예상 결과물
 
-![노트북](https://user-images.githubusercontent.com/62279741/122438768-0643f500-cfd6-11eb-8876-549ec753f39a.PNG)
-![기타](https://user-images.githubusercontent.com/62279741/122438772-08a64f00-cfd6-11eb-99e2-de3ff937221d.PNG)
+<img src="https://user-images.githubusercontent.com/62279741/122438768-0643f500-cfd6-11eb-8876-549ec753f39a.PNG" width="60%">
+<img src="https://user-images.githubusercontent.com/62279741/122438772-08a64f00-cfd6-11eb-99e2-de3ff937221d.PNG" width="60%">
+
 

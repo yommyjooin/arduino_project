@@ -17,6 +17,10 @@ https://user-images.githubusercontent.com/62279741/122161494-c9c8aa00-ceac-11eb-
 - 소프트웨어와 하드웨어의 연동<br>
 - 블루투스르 이용하여 원격지에서도 조작 및 상황 인지 
 
+## 회로도
+![회로도](https://user-images.githubusercontent.com/62279741/122437402-a39e2980-cfd4-11eb-8103-9be080fe98cf.PNG)
+
+
 ## 알고리즘
 
 도난 방지 장치 위에 물품 배치<br>
